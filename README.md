@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 # 👋 Hi there, I'm Ankita Navpute
 
 🎓 AI & Data Science Graduate | 💼 Software Developer | 🚀 PG-DAC Student at CDAC Pune  
