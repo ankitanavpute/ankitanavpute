@@ -9,16 +9,16 @@
 ## 🧠 Skills
 
 **Languages**  
-Java (Core & Advanced), C++, C, Python
+Java (Core & Advanced), C#.
 
 **Web Technologies**  
-HTML, CSS, JavaScript, React, jQuery, AJAX
+HTML, CSS, JavaScript
 
 **Databases & Backend**  
-MySQL
+MySQL,SQL SERVER
 
 **Tools & DevOps**  
-Git, GitHub, VS Code, Jenkins, Jira, Docker, Kubernetes
+Git, GitHub, VS Code, Jira
 
 **Testing**  
 Selenium
@@ -59,7 +59,7 @@ CSMSS Chh. Shahu College of Engineering, Aurangabad — *2021 – 2024*
 ---
 
 ## 🏅 Certifications
-
+- Backend Web Development Using ASP.NET CORE
 - Python Programming – HackerRank  
 - Employability & Soft Skills – Mahindra Tech
 
